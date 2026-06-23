@@ -31,9 +31,6 @@ Help future parents prepare for their baby's arrival while boosting your store's
 ---
 
 ## 🛠 Installation
-1. Téléchargez le fichier `.zip` du module.
-2. Dans votre back-office PrestaShop, allez dans **Modules > Gestionnaire de modules**.
-3. Cliquez sur **Charger un module** et sélectionnez le fichier `.zip`.
-4. Configurez le module selon vos besoins.
+Pour obtenir le fichier d'installation, veuillez me contacter via mon site www.ptitlapinou.fr ou directement via GitHub.
 
 *Ce module est compatible avec PrestaShop 1.7.8.8 et 8.x.*
